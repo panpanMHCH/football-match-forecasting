@@ -1,2 +1,2 @@
 # football-match-forecasting
-Predicting football match outcomes using the Bradley–Terry model and FBref data in R.
+Predicting football match outcomes using Statistical Modelling in R.
