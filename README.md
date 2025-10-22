@@ -1,7 +1,7 @@
 # football-match-forecasting
 Predicting football match outcomes using Statistical Modelling in R.
 
-This project explores how football match outcomes can be modelled and predicted using statistical techniques and expected goals (xG) data.  
+This final-year project explores how football match outcomes can be modelled and predicted using statistical techniques and expected goals (xG) data.  
 It combines the **Bradley–Terry model** for estimating team strengths with **logistic regression** models incorporating xG and other match features.
 
 ## 🎯 Objectives
