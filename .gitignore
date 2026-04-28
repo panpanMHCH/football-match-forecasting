@@ -1,0 +1,37 @@
+# R session artefacts
+.Rhistory
+.RData
+.RDataTmp
+.RDataTmp*
+.Ruserdata
+.Rproj.user/
+
+# renv
+renv/library/
+renv/local/
+renv/cellar/
+renv/staging/
+
+# Serialised R objects
+*.rds
+*.RDS
+
+# Data directories (raw data excluded; processed CSVs are committed)
+data/raw/
+*.parquet
+
+# Allow sample data through
+!data/sample/
+
+# Dissertation draft (keep out until grades are confirmed)
+writeup/
+
+# Reference papers (not original work)
+Examples/
+
+# Generated outputs (headline plots committed separately in reports/figures/)
+outputs/
+
+# OS junk
+.DS_Store
+Thumbs.db
