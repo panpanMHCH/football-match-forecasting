@@ -151,5 +151,5 @@ BSc Data Science, University College London
 Open to data scientist roles in sports analytics, betting markets, and applied probabilistic modelling.
 
 - GitHub: [@panpanMHCH](https://github.com/panpanMHCH)
-- LinkedIn: `{{LINKEDIN_URL}}`
-- Email: `{{EMAIL}}`
+- LinkedIn: [panapat-mahatchavaroj](https://www.linkedin.com/in/panapat-mahatchavaroj-39a3172b4)
+- Email: [panpan232004@gmail.com](mailto:panpan232004@gmail.com)
